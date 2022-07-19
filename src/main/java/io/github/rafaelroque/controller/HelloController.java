@@ -10,7 +10,7 @@ public class HelloController {
 	
 	@GetMapping
 	public String index() {
-		return "Working...";
+		return "Working [updated]";
 	}
 
 }
