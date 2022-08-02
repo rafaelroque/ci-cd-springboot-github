@@ -10,7 +10,7 @@ public class HelloController {
 	
 	@GetMapping
 	public String index() {
-		return "Updating Github Actions";
+		return "Atualizado 02/08/2022";
 	}
 
 }
