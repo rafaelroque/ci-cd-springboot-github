@@ -10,7 +10,7 @@ public class HelloController {
 	
 	@GetMapping
 	public String index() {
-		return "Atualizado Docker pull";
+		return "Nova atualizacao 10/08/22 09:44";
 	}
 
 }
