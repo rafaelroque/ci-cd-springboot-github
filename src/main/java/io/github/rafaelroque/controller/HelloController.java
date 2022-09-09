@@ -10,7 +10,7 @@ public class HelloController {
 	
 	@GetMapping
 	public String index() {
-		return "Atualizado 09/09/22 08:58";
+		return "Atualizado 09/09/2022 13:04";
 	}
 
 }
